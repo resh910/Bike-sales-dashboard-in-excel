@@ -1,1 +1,1 @@
-Data analysis Using Excel on Bike Sales Dataset
+Data analysis using Excel on Bike Sales Dataset
